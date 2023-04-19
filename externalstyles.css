@@ -1,0 +1,133 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img		{border-color: transparent;}
+
+table	{width: 65%;
+		margin-left: auto; 
+		margin-right: auto;
+		border-color: #eaeaea;
+		border-style: ridge;
+		border-width: 10px;}
+		
+	
+	.menu	{text-align: center;
+			width: 60%;}
+
+	.menuicon {width: 12.28%;}
+
+	.menupipe {width: 1%;}
+
+th		{color: white; 
+		background-color: #ff5656;}
+
+tr.stripe	{background-color: #d8d8ce;}
+	 
+td.bolder	{font-weight: bold;}
+
+caption	{caption-side: bottom;
+		font-style: italic;}
+.page_view {
+	min-height: 100%;}
+.images {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+.alejandra_background {
+	background-image: url("Alejandra_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.alejandra_content {
+	background-color: rgb(191, 106, 244, 0.626);
+}
+
+.chanele_background {
+	background-image: url("chanele_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	height: 1600px;
+}
+
+.chanele_content {
+	background-color: rgba(10, 7, 61, 0.626);
+}
+
+.jade_background {
+	background-image: url("jade_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.jade_content {
+	background-color: rgba(122, 157, 122, 0.626);
+}
+
+.neni_background {
+	background-image: url("neni_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.neni_content {
+	background-color: rgba(172, 139, 170, 0.626)
+}
+
+.jackie_background {
+	background-image: url("jackie_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.jackie_content {
+	background-color: rgba(98, 178, 248, 0.626);
+}
+
+.chanele_text {
+	color: white;
+}
+
+.chanele_contentcolor {
+	color: white;
+}
+
+.home_background {
+	background-image: url("home_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.home_content {
+	background-color: rgba(226, 221, 137, 0.626);
+}
+
+.table_background {
+	background-color: #fb9292;
+}
+
+a{
+    color: rgb(255, 245, 135);
+}
+
+.info_background {
+	background-image: url("info_background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.table_content {
+	color: white;
+}
+
